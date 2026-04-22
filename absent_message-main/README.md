@@ -16,9 +16,9 @@
 
 **Attendance Manager** is a project born out of necessity.
 
-As the **Class Representative (CR)** at RK University for the past two years, I have been responsible for taking attendance and generating absent messages for parent groups. Initially, I solved this by building a simple website using inline CSS and JavaScript. While it worked, it had limitations: no offline storage and no easy way to save logs.
+As the **Class Representative (CR)** at RK University for the past four years, I have been responsible for taking attendance and generating absent messages for parent groups. Initially, I solved this by building a simple dosa  app using flutter and node js and mongodb. While it worked, it had limitations: no offline storage and no easy way to save datas.
 
-In my **5th semester**, I learned Flutter as part of my curriculum and saw the perfect opportunity to upgrade my workflow. I built this app to replace my old website, adding **SQLite for offline access**, faster entry methods, and automated message generation.
+In my **8th semester**, I learned Flutter as part of my curriculum and saw the perfect opportunity to upgrade my workflow. I built this app to replace my old app, adding **SQLite for offline access**, faster entry methods, and automated message generation.
 
 Now, when faculty ask for attendance reviews, I can instantly provide HTML files or text summaries directly from my phone. This project reflects my journey from basic web development to full-stack mobile engineering.
 
@@ -118,7 +118,7 @@ Here is a quick map of the codebase to help developers understand the purpose of
 1.  **Clone the Repo**
 
     ```bash
-    git clone [https://github.com/yashmakwana03/absent_message.git](https://github.com/yashmakwana03/absent_message.git)
+    git clone [https://github.com/manavbavaliya97/absent_message/tree/main/absent_message-main](https://github.com/manavbavaliya97/absent_message/tree/main/absent_message-main)
     ```
 
 2.  **Install Dependencies**
@@ -136,12 +136,12 @@ Here is a quick map of the codebase to help developers understand the purpose of
 
 ## 👨‍💻 Developer
 
-**Yash Makwana**
+**Manav Bavaliya**
 
-- 🎓 3rd Year Computer Science Student at RK University
+- 🎓 4th Year Computer Engineering Student at RK University
 - 💼 Class Representative (CR)
-- 📧 [yashmakwana2275@gmail.com](mailto:yashmakwana2275@gmail.com)
-- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/yashmakwana03/)
+- 📧 [manavbavaliya97@gmail.com](mailto:manavbavaliya97@gmail.com)
+- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/manav-bavaliya-26610226b/)
 
 > _This app is a result of my real-world responsibilities as a CR. What started as a simple website evolved into a full-fledged mobile app thanks to Flutter. I believe in creating tools that make life easier for students, faculty, and myself._
 
